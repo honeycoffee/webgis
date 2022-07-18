@@ -47,8 +47,6 @@ OpenLayers appreciates contributions of all kinds.  We especially want to thank 
 
 <br>
 
-> Pozi helps connect communities through spatial thinking.
-> We love Openlayers and it forms a core part of our platform.
 > https://pozi.com/ https://app.pozi.com/
 
 <br>
